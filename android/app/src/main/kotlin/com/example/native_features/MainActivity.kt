@@ -1,4 +1,4 @@
-package com.example.native_features
+package dev.jordhan.great_places
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
